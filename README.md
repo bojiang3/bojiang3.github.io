@@ -1,4 +1,4 @@
-## Welcome to Bojiang's Homepage
+## Welcome to Bojiang (Melo) Li's Homepage
 
 A landscape photographer. Aim to serve others.
 
