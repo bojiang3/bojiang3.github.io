@@ -1,6 +1,6 @@
 ## Welcome to Bojiang (Melo) Li's Homepage
 
-A landscape photographer. Aim to serve others.
+#A landscape photographer. Aim to the world.
 
 Photographed at South Quad at University of Illinois at Urbana Champaign.
 ![Image](https://github.com/bojiang3/bojiang3/blob/main/UIUC%20South%20Quad.jpg)
